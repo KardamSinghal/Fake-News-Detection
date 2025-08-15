@@ -81,14 +81,13 @@ A machine learning project that detects whether a news article is **fake** or **
 📁 Project Structure
 Fake-News-Detection/
 │
-├── data/                  # Raw dataset files
+├── data/                  # Dataset files
 ├── notebooks/             # Jupyter notebooks
-├── models/                # Saved model files
-├── results/               # Evaluation metrics and plots
-├── utils/                 # Helper functions
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
-
+├── models/                # Saved models
+├── results/               # Graphs, metrics, reports
+├── utils/                 # Helper scripts
+├── requirements.txt       # Dependencies
+└── README.md              # Documentation
 ---
 
 🔮 Future Enhancements
