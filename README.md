@@ -78,7 +78,7 @@ A machine learning project that detects whether a news article is **fake** or **
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 Fake-News-Detection/
 │
 ├── data/                  # Dataset files
