@@ -76,6 +76,8 @@ A machine learning project that detects whether a news article is **fake** or **
 
 📈 *Visualizations and confusion matrices available in the `results/` folder.*
 
+---
+
 📁 Project Structure
 Fake-News-Detection/
 │
@@ -86,6 +88,8 @@ Fake-News-Detection/
 ├── utils/                 # Helper functions
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+
+---
 
 🔮 Future Enhancements
 - Integrate deep learning models (LSTM, BERT)
