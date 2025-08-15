@@ -86,7 +86,7 @@ A machine learning project that detects whether a news article is **fake** or **
 git clone https://github.com/KardamSinghal/Fake-News-Detection.git
 cd Fake-News-Detection
 
-### 2. Install Dependencies
+###** 2. Install Dependencies**
 pip install -r requirements.txt
 
 
