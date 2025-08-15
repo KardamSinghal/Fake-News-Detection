@@ -75,19 +75,6 @@ A machine learning project that detects whether a news article is **fake** or **
 | XGBoost             | 98.2%    | 98.4%     | 98.0%  | 98.2%    |
 
 📈 *Visualizations and confusion matrices available in the `results/` folder.*
-
----
-
-## 📁 Project Structure
-Fake-News-Detection/
-│
-├── data/                  # Dataset files
-├── notebooks/             # Jupyter notebooks
-├── models/                # Saved models
-├── results/               # Graphs, metrics, reports
-├── utils/                 # Helper scripts
-├── requirements.txt       # Dependencies
-└── README.md              # Documentation
 ---
 
 🔮 Future Enhancements
