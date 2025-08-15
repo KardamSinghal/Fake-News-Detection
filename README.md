@@ -87,8 +87,7 @@ A machine learning project that detects whether a news article is **fake** or **
 - Scikit-learn documentation
 - NLTK and SpaCy for NLP tools
 
-📬 Contact
-Kardam Singhal
+📬 Contact Kardam Singhal
 🔗 [LinkedIn](https://www.linkedin.com/in/kardamsinghal)  
 📫 Email: kardamsinghalllll@gmail.com
 
