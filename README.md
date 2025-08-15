@@ -76,26 +76,6 @@ A machine learning project that detects whether a news article is **fake** or **
 
 📈 *Visualizations and confusion matrices available in the `results/` folder.*
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/KardamSinghal/Fake-News-Detection.git
-cd Fake-News-Detection
-
-###** 2. Install Dependencies**
-pip install -r requirements.txt
-
-
-### 3. Download Dataset
-Download from Kaggle and place True.csv and Fake.csv in the data/ folder.
-
-### 4. Run the Notebook
-jupyter notebook notebooks/FakeNewsDetection.ipynb
-
 📁 Project Structure
 Fake-News-Detection/
 │
@@ -122,7 +102,6 @@ Fake-News-Detection/
 Kardam Singhal
 🔗 [LinkedIn](https://www.linkedin.com/in/kardamsinghal)  
 📫 Email: kardamsinghalllll@gmail.com
-
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details
