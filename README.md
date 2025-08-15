@@ -74,7 +74,6 @@ A machine learning project that detects whether a news article is **fake** or **
 | Random Forest       | 96.4%    | 96.7%     | 96.1%  | 96.4%    |
 | XGBoost             | 98.2%    | 98.4%     | 98.0%  | 98.2%    |
 
-📈 *Visualizations and confusion matrices available in the `results/` folder.*
 ---
 
 🔮 Future Enhancements
